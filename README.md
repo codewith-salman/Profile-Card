@@ -4,7 +4,7 @@
 <div align="center">
   <h1>🧑‍💼 Profile Card</h1>
   <p>A stylish and minimal profile card component using only HTML and CSS.</p>
-  <img src="Profile%20Card/image/screenshot.PNG" alt="Profile Card Screenshot" width="700"/>
+  <img src="Profile%20Card/img/screenshot.PNG" alt="Profile Card Screenshot" width="100%"/>
 </div>
 
 ---
